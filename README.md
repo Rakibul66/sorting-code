@@ -1,2 +1,2 @@
 # sorting-code
-c shorting algorithm
+c sorting algorithm
